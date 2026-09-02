@@ -8,7 +8,7 @@ Esta Política de Privacidade descreve como a extensão para navegador **"Achado
 
 A Extensão é desenvolvida e mantida por **Achados da Geru**, um projeto dedicado à divulgação de ofertas e promoções de produtos vendidos na Amazon Brasil.
 
-Contato: [e-mail ou canal de contato a definir]
+Contato: gustavotravnik@outlook.com
 
 ## 2. Qual é o propósito da Extensão
 
